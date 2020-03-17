@@ -1,4 +1,4 @@
-# systemd.zabbix_agent2.service
+# systemd zabbix_agent2.service
 
 cp /tmp/zabbix_agent2.service /usr/lib/systemd/system/zabbix_agent2.service
 
